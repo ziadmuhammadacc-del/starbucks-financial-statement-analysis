@@ -7,6 +7,10 @@ An Excel-based financial statement analysis project examining Starbucks' financi
 
 The model organizes key financial statements and applies financial analysis techniques to evaluate profitability, financial position, cash flow generation, and operating performance.
 
+## Model Preview
+
+![Starbucks Financial Statement Analysis Preview](Starbucks_Model_Preview.png)
+
 ## Key Components
 - Income Statement Analysis (FY2021–FY2023)
 - Balance Sheet Analysis (FY2022–FY2023)
