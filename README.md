@@ -9,7 +9,7 @@ The model organizes key financial statements and applies financial analysis tech
 
 ## Model Preview
 
-
+![Starbucks Financial Statement Analysis Preview](Starbucks_Model_Preview.png)
 
 ## Key Components
 - Income Statement Analysis (FY2021–FY2023)
